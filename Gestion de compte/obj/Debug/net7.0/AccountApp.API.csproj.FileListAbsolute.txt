@@ -1,0 +1,78 @@
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\appsettings.json
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.API.exe
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.API.deps.json
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.API.runtimeconfig.json
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.API.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.API.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.csproj.AssemblyReference.cache
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.AssemblyInfoInputs.cache
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.AssemblyInfo.cs
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.csproj.CoreCompileInputs.cache
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\staticwebassets\msbuild.AccountApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\staticwebassets\msbuild.build.AccountApp.API.props
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AccountApp.API.props
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AccountApp.API.props
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\scopedcss\bundle\AccountApp.API.styles.css
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.csproj.CopyComplete
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\refint\AccountApp.API.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.genruntimeconfig.cache
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\ref\AccountApp.API.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.Infrastructure.dll
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.Application.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.Infrastructure.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\bin\Debug\net7.0\AccountApp.Domain.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\Gestion de compte\obj\Debug\net7.0\AccountApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\appsettings.json
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.API.exe
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.API.deps.json
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.API.runtimeconfig.json
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.API.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.API.pdb
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.Infrastructure.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.Application.pdb
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.Infrastructure.pdb
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\bin\Debug\net7.0\AccountApp.Domain.pdb
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.csproj.AssemblyReference.cache
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.AssemblyInfoInputs.cache
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.AssemblyInfo.cs
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.csproj.CoreCompileInputs.cache
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\staticwebassets\msbuild.AccountApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\staticwebassets\msbuild.build.AccountApp.API.props
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AccountApp.API.props
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AccountApp.API.props
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\scopedcss\bundle\AccountApp.API.styles.css
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.csproj.CopyComplete
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\refint\AccountApp.API.dll
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.pdb
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\AccountApp.API.genruntimeconfig.cache
+C:\Users\nidhal\source\repos\AccountApp\Gestion de compte\obj\Debug\net7.0\ref\AccountApp.API.dll

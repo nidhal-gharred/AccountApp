@@ -1,0 +1,30 @@
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.csproj.AssemblyReference.cache
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.AssemblyInfoInputs.cache
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.AssemblyInfo.cs
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\bin\Debug\net7.0\AccountApp.Application.deps.json
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\bin\Debug\net7.0\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\bin\Debug\net7.0\AccountApp.Application.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\bin\Debug\net7.0\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\bin\Debug\net7.0\AccountApp.Domain.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.csproj.CopyComplete
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\refint\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Application\obj\Debug\net7.0\ref\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\bin\Debug\net7.0\AccountApp.Application.deps.json
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\bin\Debug\net7.0\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\bin\Debug\net7.0\AccountApp.Application.pdb
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\bin\Debug\net7.0\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\bin\Debug\net7.0\AccountApp.Domain.pdb
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.csproj.AssemblyReference.cache
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.AssemblyInfoInputs.cache
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.AssemblyInfo.cs
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.csproj.CopyComplete
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\refint\AccountApp.Application.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\AccountApp.Application.pdb
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Application\obj\Debug\net7.0\ref\AccountApp.Application.dll

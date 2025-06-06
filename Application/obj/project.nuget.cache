@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ivM/JbR3EmglQC8AF5x0VsHu3xb8CCgmeLHFM8qacN6uCM7QFsHz1KPWgihsr+y6LpMw8+HjxOXjACCk9tEEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nidhal\\source\\repos\\AccountApp\\Application\\AccountApp.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nidhal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

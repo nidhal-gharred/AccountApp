@@ -1,0 +1,24 @@
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\bin\Debug\net7.0\AccountApp.Domain.deps.json
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\bin\Debug\net7.0\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\bin\Debug\net7.0\AccountApp.Domain.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.csproj.AssemblyReference.cache
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.AssemblyInfoInputs.cache
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.AssemblyInfo.cs
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\refint\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.pdb
+C:\Users\nidhal\source\repos\Gestion de compte\AccountApp.Domain\obj\Debug\net7.0\ref\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\bin\Debug\net7.0\AccountApp.Domain.deps.json
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\bin\Debug\net7.0\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\bin\Debug\net7.0\AccountApp.Domain.pdb
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.csproj.AssemblyReference.cache
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.AssemblyInfoInputs.cache
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.AssemblyInfo.cs
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\refint\AccountApp.Domain.dll
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\AccountApp.Domain.pdb
+C:\Users\nidhal\source\repos\AccountApp\AccountApp.Domain\obj\Debug\net7.0\ref\AccountApp.Domain.dll
